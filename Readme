@@ -1,6 +1,6 @@
 Face and Smile Detection Using OpenCV 3.0
 
-Import OpenCV libraries
+Import OpenCV libraries ( http://opencv-java-tutorials.readthedocs.io/en/latest/01-installing-opencv-for-java.html )
 
 Create a folder ./foto/
 
